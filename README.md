@@ -7,7 +7,7 @@
 - from tkinter import *
 - from tkinter.ttk import *
 - from time import strftime
-- These imports bring in the necessary modules for creating the GUI (tkinter and tkinter.ttk) and for getting the current time (strftime from the time module).
+- I used these imports because they bring in the necessary modules for creating the GUI (tkinter and tkinter.ttk) and for getting the current time (strftime from the time module).
 
 # Initialize the Root Window:
 - root = Tk()
